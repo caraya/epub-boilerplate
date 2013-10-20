@@ -10,3 +10,18 @@
 [submodule "sass/sass-repo"]
 	path = sass/sass-repo
 	url = https://github.com/caraya/sass-repo.git
+[submodule "xml/docbook"]
+	path = xml/docbook
+	url = https://github.com/docbook/docbook.git
+[submodule "xml/dbstylesheets20"]
+	path = xml/dbstylesheets20
+	url = https://github.com/docbook/xslt20-stylesheets.git
+[submodule "xml/dbstylesheets20-resources"]
+	path = xml/dbstylesheets20-resources
+	url = https://github.com/docbook/xslt20-resources.git
+[submodule "templates/ahab"]
+	path = templates/ahab
+	url = https://github.com/cmod/ahab.git
+[submodule "templates/bibliotype"]
+	path = templates/bibliotype
+	url = https://github.com/cmod/bibliotype.git
