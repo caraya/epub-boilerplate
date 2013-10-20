@@ -25,3 +25,9 @@
 [submodule "templates/bibliotype"]
 	path = templates/bibliotype
 	url = https://github.com/cmod/bibliotype.git
+[submodule "js/emphasis"]
+	path = js/emphasis
+	url = https://github.com/NYTimes/Emphasis.git
+[submodule "js/jquery.tap"]
+	path = js/jquery.tap
+	url = https://github.com/aarongloege/jquery.tap.git
