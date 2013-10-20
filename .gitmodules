@@ -1,0 +1,12 @@
+[submodule "sass/compass-recipes"]
+	path = sass/compass-recipes
+	url = https://github.com/MoOx/compass-recipes.git
+[submodule "sass/compass"]
+	path = sass/compass
+	url = https://github.com/chriseppstein/compass.git
+[submodule "sass/sass-compiler"]
+	path = sass/sass-compiler
+	url = https://github.com/nex3/sass.git
+[submodule "sass/sass-repo"]
+	path = sass/sass-repo
+	url = https://github.com/caraya/sass-repo.git
