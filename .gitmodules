@@ -7,3 +7,6 @@
 [submodule "sass/sass-compiler"]
 	path = sass/sass-compiler
 	url = https://github.com/nex3/sass.git
+[submodule "sass/sass-repo"]
+	path = sass/sass-repo
+	url = https://github.com/caraya/sass-repo.git
